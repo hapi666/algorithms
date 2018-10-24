@@ -4,5 +4,5 @@
 * Sort
 * linkList
 * Stack
-* tree
+* Tree
 * 图
