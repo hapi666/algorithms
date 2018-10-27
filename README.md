@@ -1,7 +1,7 @@
 # Data-structure
 ### 数据结构填坑
 * Search
-  * [binary-search](https://github.com/hapi666/Data-structure/search/binary-search/BinarySearch.go)
+  * [binary-search](https://github.com/hapi666/Data-structure/blob/master/search/binary-search/BinarySearch.go)
 * Sort
   * [fast-sort](https://github.com/hapi666/Data-structure/blob/master/sort/fast-sort/fastSort.go)
   * [insert-sort](https://github.com/hapi666/Data-structure/blob/master/sort/insert-sort/main.go)
