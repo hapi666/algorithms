@@ -6,7 +6,6 @@ func insertSort(a []int) []int {
 	l := len(a)
 	for i := 1; i < l; i++ {
 		for j := i; j > 0; j-- {
-			//temp:=a[j]
 			if a[j] < a[j-1] {
 				a[j], a[j-1] = a[j-1], a[j]
 			}
