@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func split(a []int) []int {
+func split(a []int) []int { //分
 	l := len(a)
 	if l <= 1 {
 		return a
@@ -13,7 +13,7 @@ func split(a []int) []int {
 	return merge(left, right)
 }
 
-func merge(a []int, b []int) []int {
+func merge(a []int, b []int) []int { //治
 	temp := make([]int, 0, len(a)+len(b))
 	i := 0
 	j := 0
