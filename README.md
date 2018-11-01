@@ -7,6 +7,7 @@
   * [insert-sort](https://github.com/hapi666/Data-structure/blob/master/sort/insert-sort/main.go)
   * [bubble-sort](https://github.com/hapi666/Data-structure/blob/master/sort/bubble-sort/main.go)
   * [merge-sort](https://github.com/hapi666/Data-structure/blob/master/sort/merge-sort/main.go)
+  * [heap-sort](https://github.com/hapi666/Data-structure/blob/master/sort/heap-sort/main.go)
 * linkList
 * Stack
 * Tree
