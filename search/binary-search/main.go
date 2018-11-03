@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-func BinarySearch(Arry []int, number int) int {
+func binarySearch(Arry []int, number int) int {
 	minIndex := 0
 	maxIndex := len(Arry) - 1
 	for minIndex <= maxIndex {
@@ -23,13 +23,7 @@ func BinarySearch(Arry []int, number int) int {
 }
 
 func main() {
-	count := 5
-	i := 7
-	arry := make([]int, 5)
-	for index := 0; index < count; index++ {
-		arry[index] = i
-		i++
-	}
-	fmt.Println(BinarySearch(arry, 7))
+	var b = []int{12, 16, 27, 27, 38, 39}
+	location := binarySearch(b, 38)
+	fmt.Println(location)
 }
-
