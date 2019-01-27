@@ -41,7 +41,7 @@ void insertNode(struct BNode *g, struct BNode *node){
 	printf("被插入数据：%d\n", temp->next->data);
 }
 
-struct Graph* creatGraph(){
+struct Graph* createGraph(){
 	int i = 0;
 	struct Graph *g = (struct Graph*)malloc(sizeof(struct Graph));
 	if(g == NULL){
@@ -124,7 +124,7 @@ void printGraph(struct Graph *g){
 
 int main(){
 	struct Graph *g;
-	g = creatGraph();
+	g = createGraph();
 	printGraph(g);
 	return 0;
 }
