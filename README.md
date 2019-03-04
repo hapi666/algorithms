@@ -12,10 +12,11 @@
   * [heap-sort](https://github.com/hapi666/Data-structure/blob/master/sort/heap-sort/main.go)
   * [bucket-sort](https://github.com/hapi666/Data-structure/blob/master/sort/bucket-sort/main.go)
 * linkList
-* Stack
+* [Stack](https://github.com/hapi666/algorithms/blob/master/stack/main.go)
+* [Queue](https://github.com/hapi666/algorithms/blob/master/queue/main.go)
 * Tree
 * graph
   * [create-graph(C语言)](https://github.com/hapi666/Data-structure/blob/master/graph/graph.c)
 ---
 ### 题外话（感悟）
-我来到了「东软集团」，阿！冲鸭！！！
+  没剩几天的大学了，要抓紧学鸭～
