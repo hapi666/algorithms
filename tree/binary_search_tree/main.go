@@ -92,7 +92,7 @@ func successor(n *node) *node {
 		return Min(n.right)
 	}
 	temp := n.parent
-	for temp != nil && temp == temp.right {
+	for temp != nil && n == temp.right {
 		temp = temp.parent
 	}
 	return temp
