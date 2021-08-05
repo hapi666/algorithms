@@ -19,5 +19,24 @@
 * ***[String_match](https://github.com/hapi666/algorithms/blob/master/string_match)*** 
    * [KMP](https://github.com/hapi666/algorithms/blob/master/string_match/KMP)
    * []()
-* ***graph***
-  * [graph(C语言)](https://github.com/hapi666/Data-structure/blob/master/graph/graph.c)
+* ***graph***=
+  * [graph(C语言)](https://github.com/hapi666/Data-structure/blob/master/graph/graph.c) 
+* **TODO**
+  * LRU cache
+  * 单链表
+  * 双向链表
+  * 循环链表
+  * 双向循环链表
+  * 静态链表
+  * 顺序栈
+  * 链式栈
+  * 普通队列
+  * 双端队列
+  * 阻塞队列
+  * 并发队列
+  * 阻塞并发队列
+  * 平衡二叉树
+  * 二叉查找树
+  * 平衡二叉查找树（AVL树、红黑树）
+  * 完全二叉树
+  * 满二叉树
