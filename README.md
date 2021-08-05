@@ -1,5 +1,4 @@
 # algorithms
-### 数据结构填坑
 * ***Search***
   * [binary_search](https://github.com/hapi666/Data-structure/blob/master/search/binary-search/BinarySearch.go)
   * [insert_search](https://github.com/hapi666/Data-structure/blob/master/search/insert-search/main.go)
@@ -21,4 +20,4 @@
    * [KMP](https://github.com/hapi666/algorithms/blob/master/string_match/KMP)
    * []()
 * ***graph***
-  * [graph(C语言)](https://github.com/hapi666/Data-structure/blob/master/graph/graph.c) 
+  * [graph(C语言)](https://github.com/hapi666/Data-structure/blob/master/graph/graph.c)
